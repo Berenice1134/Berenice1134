@@ -33,6 +33,7 @@
 - 🧠 Estoy explorando temas de ciencia de datos, inteligencia artificial, visualización interactiva y ciberseguridad.
 - 🔧 Disfruto automatizar procesos y construir soluciones que hagan la vida más fácil.
 - 📚 Siempre estoy aprendiendo algo nuevo y mejorando mis habilidades.
+- Proyecto destacable: FePro 2025 https://github.com/efren-78/simulador-urbano Simulador Urbano
 
 
 

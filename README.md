@@ -27,7 +27,6 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
 
-- 💻 Actualmente desarrollo una aplicación sobre probabilidades en futbol para poder usarlo en aplicaciones de apuestas.
 - 📊 Me gusta trabajar con datos y extraer valor de ellos mediante procesamiento, visualización y análisis.
 - 📈 Tengo experiencia en PowerBI, Python, R, para el uso de analisis de datos.
 - 🧠 Estoy explorando temas de ciencia de datos, inteligencia artificial, visualización interactiva y ciberseguridad.
